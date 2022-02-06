@@ -5,4 +5,4 @@ What does my Project do:-
 
 2) Uses tkinter to display the information in a presentable way.
 ![alt text](https://github.com/jayzobalia/Cricket_Analysis/blob/main/Images/Screenshot%20(155).png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jayzobalia/Cricket_Analysis/blob/main/Images/Screenshot%20(156).png)
